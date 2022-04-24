@@ -13,22 +13,21 @@ I am React Native developer who is passionate about writing code, solving proble
 ### 🤝 Connect with me:
 
 
-<a href="https://twitter.com/Omkar_lhr_9595"><img align="left" alt="Emmanuel-Ezekiel  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/omkar-lohar-3a8848153/"><img align="left" alt="Emmanuel-Ezekiel  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://instagram.com/omkar_lhr_9595"><img align="left" alt="Emmanuel-Ezekiel  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://twitter.com/shubhhh7"><img align="left" alt="Emmanuel-Ezekiel  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/shubhhh7/"><img align="left" alt="Emmanuel-Ezekiel  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://instagram.com/shubhhh7"><img align="left" alt="Emmanuel-Ezekiel  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 </br>
 
 ## 📚  I'm currently learning
 
-- React Native, Native Android Development.
+- React Native Android Development.
 - Problem Solving.
-- System Design.
 
 ## 🔭 I'm currently working on
 
 - My React Native projects
-- Portfolio Website For TridentDaoDev
+- DSA 
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
@@ -69,7 +68,7 @@ I am React Native developer who is passionate about writing code, solving proble
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhhh7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /><br/><br/><br/>
 
-[twitter]: https://twitter.com//omkar_lhr_9595/
-[instagram]: https://www.instagram.com/omkar_lhr_9595/
+[twitter]: https://twitter.com//shubhhh7/
+[instagram]: https://www.instagram.com/shubhhh7/
 [linkedin]: https://www.linkedin.com/in/shubhhh7/
 [web]: htttps://www.google.com
