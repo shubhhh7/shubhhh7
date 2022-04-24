@@ -67,9 +67,9 @@ I am React Native developer who is passionate about writing code, solving proble
 ![](https://img.shields.io/badge/Tools-Visualstudio-informational?style=flat&logo=visual-studio&Color=white)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=omkarlhr9595&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /><br/><br/><br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhhh7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /><br/><br/><br/>
 
 [twitter]: https://twitter.com//omkar_lhr_9595/
 [instagram]: https://www.instagram.com/omkar_lhr_9595/
-[linkedin]: https://www.linkedin.com/in/omkar-lohar-3a8848153/
+[linkedin]: https://www.linkedin.com/in/shubhhh7/
 [web]: htttps://www.google.com
